@@ -1,0 +1,507 @@
+{
+    "archives": [
+        "https://opendirsearch.abifog.com/",
+        "https://archive.org/web/",
+        "https://aleph.occrp.org/",
+        "http://news-explorer.mybluemix.net/?query=IRAQ&type=unconstrained",
+        "https://www.searchtempest.com/",
+        "https://archive.org/details/tv",
+        "https://archive.is/",
+        "http://www.findpdfdoc.com/"
+    ],
+
+    "car_license": [
+        "https://www.vindecoderz.com",
+        "https://www.vindecoderz.com/",
+        "https://www.nicb.org/vincheck",
+        "https://thatsthem.com/",
+        "https://www.vehiclehistory.com/",
+        "https://www.copart.com/",
+        "https://www.autocheck.com/vehiclehistory/search-by-license-plate/"
+    ],
+
+    "business_records": [
+        "https://core.ac.uk/",
+        "https://www.loc.gov/",
+        "https://openknowledgemaps.org/",
+        "https://www.wolframalpha.com/",
+        "https://www.base-search.net/",
+        "https://scholar.google.co.uk/",
+        "https://www.talkwalker.com/alerts",
+        "https://www.seekatweet.com/",
+        "https://aleph.occrp.org/",
+        "https://opendirsearch.abifog.com/",
+        "https://www.192.com/",
+        "https://www.searchbug.com/",
+        "https://www.base-search.net/"
+        ],
+
+    "darknet": [
+        "https://biznar.com/biznar/desktop/en/search.html",
+        "https://22tojepqmpah32fkeuurutki7o5bmb45uhmgzdg4l2tk34fkdafgt7id.onion.ly/",
+        "https://pvhwsb7a3d2oq73xtr3pzvmrruvswyqgkyahcb7dmbbfftr4qtsmvjid.onion.ly/",
+        "https://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion.ly/",
+        "https://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion.ly/",
+        "https://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion.ly/wiki/Main_Page",
+        "http://g4eyyhx62lmueffp3au7xpsl5ob3ggegf5eidsfuiyiimy7fpdkwr4ad.onion/index.php/deep-web-chat-rooms-v3",
+        "https://gist.github.com/0x00009b/8cf0c2b0e147dc0c1114fb32b5d2d7a3"
+
+        ,{
+            "tools_for_darknet": [
+            "https://github.com/s-rah/onionscan",
+            "https://github.com/k4m4/onioff",
+            "https://github.com/james04gr/TorCrawl.py",
+            "https://github.com/andreyglauzer/VigilantOnion",
+            "https://github.com/danieleperera/OnionIngestor",
+            "https://github.com/josh0xA/darkdump",
+            "https://github.com/TebbaaX/Katana"
+            ]
+        }
+    ],
+
+    "document_search": [
+        "https://offshoreleaks.icij.org/",
+        "http://www.pdfsearchengine.info/",
+        "https://www.andrewmohawk.com/",
+        "https://www.slideshare.net/",
+        "https://www.filesearch.link/",
+        "https://www.dedigger.com/#gsc.tab=0",
+        "https://filepursuit.com/",
+        "https://searchfiles.de/",
+        "https://www.searchftps.net/"
+    ],
+
+    "domain_search": [
+        "https://www.nmmapper.com/sys/tools/subdomainfinder/",
+        "https://dnsdumpster.com/",
+        "https://spyse.com/",
+        "https://analyzeid.com/",
+        "https://www.whoxy.com/",
+        "https://spyonweb.com/",
+        "https://builtwith.com/",
+        "https://centralops.net/co/",
+        "https://whois.domaintools.com/",
+        "https://who.is/",
+        "https://hunter.io/",
+        "https://www.ps3cfw.com/iplog.php",
+        "https://domaineye.com/",
+        "https://www.criminalip.io/",
+        "https://tool.namedog.com/domain-typo-generator/"
+    ],
+
+    "email_search": [
+        "https://www.ipqualityscore.com/",
+        "https://www.spokeo.com/",
+        "https://www.spydialer.com/default.aspx",
+        "https://thatsthem.com/",
+        "https://domaineye.com/",
+        "https://phonebook.cz/",
+        "https://hunter.io/",
+        "https://www.voilanorbert.com/"
+    ],
+
+
+    "encodin&decoding": [
+        "https://tools.kali.org/password-attacks/hash-identifier",
+        "https://www.tunnelsup.com/hash-analyzer/",
+        "https://hashes.com/en/decrypt/hash",
+        "https://online-barcode-reader.inliteresearch.com/",
+        "http://www.kahusecurity.com/tools.html",
+        "http://jsnice.org/",
+        "https://beautifier.io/",
+        "https://gchq.github.io/CyberChef/",
+        "http://ddecode.com/phpdecoder/",
+        "https://www.boxentriq.com/code-breaking",
+        "https://searchcode.com/",
+        "https://grep.app/",
+        "http://codefinder.org/",
+        "https://publicwww.com/",
+        "https://tool.namedog.com/domain-typo-generator/"
+    ],
+
+    "image&video": [
+        "https://images.google.com/",
+        "https://tineye.com/",
+        "https://www.betafaceapi.com/demo.html",
+        "https://www.bing.com/?scope=images&nr=1&FORM=NOFORM",
+        "https://pimeyes.com/en",
+        "https://www.exifdata.com/index.php",
+        "https://www.duplichecker.com/reverse-image-search.php",
+        "https://archive.org/details/opensource_movies",
+        "https://www.itemfix.com/?r=ll",
+        "https://videoshub.com/category/18plus",
+        "http://imgops.com/",
+        "http://exif.regex.info/exif.cgi",
+        "http://metapicz.com/#landing",
+        "https://ezgif.com/reverse",
+        "https://infringement.report/api/raider-reverse-image-search/",
+        "https://tool.namedog.com/domain-typo-generator/"
+    ],
+
+    "ip_address": [
+        "https://ipinfo.io/",
+        "https://nordvpn.com/ip-lookup/",
+        "https://www.ps3cfw.com/",
+        "https://domaineye.com/",
+        "https://canarytokens.org/generate",
+        "https://www.criminalip.io/",
+        "https://tool.namedog.com/domain-typo-generator/"
+    ],
+
+    "meta_search": [
+        "https://all-io.net/",
+        "https://www.etools.ch/",
+        "https://www.faganfinder.com/",
+        "https://www.izito.com/",
+        "https://www.hugedomains.com/domain_profile.cfm?d=metabear.com",
+        "https://www.qwant.com/",
+        "https://www.zapmeta.com/",
+        "https://swisscows.com/",
+        "https://www.100searchengines.com/",
+        "hhttps://www.searchenginesoftheworld.com/"
+    ],
+
+    "maps": [
+        "https://search.descarteslabs.com/?layer=naip_v2_rgb_2014-2015#dlkey=64_32_1.0_15_673_54148&lat=39.2322500&lng=-98.2177700&skipTut=true&zoom=3.5",
+        "https://geocode.localfocus.nl/",
+        "https://www.suncalc.org/#/34.7722,40.402,2/2021.08.24/00:03/20",
+        "https://www.sunearthtools.com/",
+        "https://www.timeanddate.com/astronomy/",
+        "http://metrocosm.com/disputed-territories-map.html",
+        "https://www.ps3cfw.com/",
+        "https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4",
+        "https://www.google.com/maps/@33.7432412,20.4136832,15749348m/data=!3m1!1e3",
+        "https://earth.google.com/web/@0.85278424,-53.25629471,-7293.48499708a,22259044.89199162d,35y,360h,0t,0r",
+        "https://www.bing.com/maps/",
+        "https://wego.here.com/?x=ep&map=41.6959,44.832,10,normal",
+        "http://data.mashedworld.com/dualmaps/map.htm",
+        "https://www.instantstreetview.com/",
+        "https://zoom.earth/",
+        "https://kartaview.org/map/@25.19195187186068,55.207648307293084,11z",
+        "https://www.wigle.net/",
+        "https://maps.esri.com/rc/sat2/index.html",
+        "https://canarytokens.org/generate",
+        "https://impact.ese.ic.ac.uk/ImpactEarth/ImpactEffects/",
+        "https://tool.namedog.com/domain-typo-generator/",
+        "https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat=40.4&lng=-3.730000000000018&zoom=12&preset=null&layers=&maxcc=20&gain=1.0&gamma=1.0&time=2022-05-01%7C2022-11-11&atmFilter=&showDates=false",
+        "https://www.google.co.uk/earth/about/versions/",
+        "https://livingatlas.arcgis.com/wayback/#active=7110&ext=-115.33219,36.04818,-115.26481,36.07982",
+        "https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME&toTime=2022-11-11T07%3A52%3A54.625Z",
+        "https://www.mgmaps.com/kml/",
+        "http://wikimapia.org/#lang=en&lat=41.725000&lon=44.790800&z=12&m=w",
+        "https://search.earthdata.nasa.gov/search/granules?p=C1214470488-ASF&pg[0][v]=f&pg[0][gsk]=-start_date&tl=1668153917.214!3!!&lat=54.278797265664124&long=6.50390625&zoom=4",
+        "http://www.dgi.inpe.br/catalogo/",
+        "https://coast.noaa.gov/dataviewer/#/",
+        "https://earthexplorer.usgs.gov/",
+        "https://www.eorc.jaxa.jp/ALOS/jp/index_j.html",
+        "https://www.unavco.org/",
+        "https://coast.noaa.gov/digitalcoast/data/"
+    ],
+
+    "malware_scanners": [
+        "https://themarkup.org/blacklight",
+        "https://www.phishtank.com/",
+        "https://www.dnsbl.info/",
+        "hhttps://www.debouncer.com/",
+        "https://nvd.nist.gov/vuln/search",
+        "https://antiscan.me/",
+        "https://nodistribute.com/",
+        "https://analyze.intezer.com/"
+    ],
+
+    "search_engines": [
+        "http://news-explorer.mybluemix.net/?query=IRAQ&type=unconstrained",
+        "https://livingatlas.arcgis.com/wayback/#active=3026&ext=-115.27078,36.06945,-115.18357,36.11502",
+        "https://www.newslookup.com/",
+        "https://www.searchenginelinks.co.uk/cluuz-s370.html",
+        "https://humantraffickingsearch.org/",
+        "https://www.startpage.com/#hmb",
+        "https://keywordtool.io/",
+        "https://www.wordtracker.com/",
+        "https://soovle.com/",
+        "https://www.goo.ne.jp/",
+        "https://www.orange.fr/portail",
+        "https://www.walla.co.il/",
+        "http://www.baidu.com/",
+        "https://www.eniro.se/",
+        "https://www.naver.com/",
+        "https://www.onet.pl/",
+        "https://www.sapo.pt/",
+        "https://www.yandex.com/",
+        "https://www.search.ch/",
+        "https://www.seznam.cz/"
+    ],
+
+    "qr_gen": [
+        "https://www.unitag.io/qrcode",
+        "https://goqr.me/",
+        "https://www.qrstuff.com/"
+    ],
+
+    "public_records": [
+        "https://www.crunchbase.com/",
+        "https://core.ac.uk/",
+        "https://www.loc.gov/",
+        "https://openknowledgemaps.org/",
+        "https://www.wolframalpha.com/",
+        "https://www.base-search.net/",
+        "https://scholar.google.co.uk/",
+        "https://www.talkwalker.com/alerts",
+        "https://www.seekatweet.com/",
+        "https://onemilliontweetmap.com",
+        "https://aleph.occrp.org/",
+        "https://opendirsearch.abifog.com/",
+        "https://www.searchtempest.com/",
+        "https://www.base-search.net/)"
+    ],
+
+    "plane_track": [
+        "http://www.planeflighttracker.com/",
+        "https://planefinder.net/",
+        "https://flightaware.com/",
+        "https://www.flightstats.com/v2",
+        "https://flightaware.com/live/flight_event_history.rvt?ident=",
+        "https://www.flightradar24.com/42,43.5/6",
+        "https://www.liveatc.net/",
+        "https://www.radarbox.com/?rightSidebar=flightFeed",
+        "https://www.flightradar24.com/",
+        "http://inaccurate.adsbexchange.com/"
+    ],
+
+    "person": [
+        "https://sync.me/",
+        "https://nuwber.com/",
+        "https://www.whitepages.com/",
+        "https://aleph.occrp.org/",
+        "https://opendirsearch.abifog.com/",
+        "http://news-explorer.mybluemix.net/?query=IRAQ&type=unconstrained",
+        "https://www.spokeo.com/",
+        "https://www.192.com/",
+        "https://www.bizyellowpages.com/",
+        "https://www.canada411.ca/",
+        "https://www.classmates.com/",
+        "https://www.familysearch.org/en/",
+        "https://www.bop.gov/inmateloc/",
+        "https://www.fold3.com/",
+        "https://forebears.io/",
+        "https://www.genealogybank.com/",
+        "https://www.genealogylinks.net/",
+        "https://www.infobel.com/",
+        "http://www.wayp.com/",
+        "https://www.judyrecords.com/",
+        "https://littlesis.org/",
+        "https://www.locatefamily.com/",
+        "https://com.lullar.com/",
+        "https://arrests.org/",
+        "https://www.courtlistener.com/",
+        "https://expertisefinder.com/",
+        "https://www.experts.com/",
+        "https://www.spydialer.com/default.aspx",
+        "https://thatsthem.com/",
+        "https://neighbor.report/",
+        "https://www.zabasearch.com/",
+        "https://infospace.com/home/white-pages",
+        "https://www.jailbase.com/search/",
+        "https://www.familywatchdog.us/Default.asp",
+        "https://officially.com/",
+        "https://www.peekyou.com/",
+        "https://www.reunion.com/",
+        "https://www.searchbug.com/"
+    ],
+
+    "shops": [
+        "https://www.brickhousesecurity.com/",
+        "https://www.hauppauge.com/pages/webstore2/webstore_hvr950q.html",
+        "https://shop.hak5.org/",
+        "https://proxmark.com/",
+        "https://greatscottgadgets.com/",
+        "https://hackerwarehouse.com/",
+        "https://www.adafruit.com/",
+        "https://www.antratek.com/products/",
+        "https://www.fabtolab.com/index.php?route=common/home",
+        "https://konektor5000.pl/",
+        "https://www.nooelec.com/store/",
+        "https://www.ouverture-fine.com/",
+        "https://www.passion-radio.com/",
+        "https://www.pishop.us/",
+        "https://robosavvy.com/store/",
+        "https://www.wimo.com/de/",
+        "https://www.wallofsheep.com/",
+        "https://www.sparkfun.com/",
+        "https://www.seeedstudio.com/",
+        "https://www.sharebrained.com/",
+        "https://lab401.com/collections/all-products",
+        "https://www.amazon.com/shop/davidbombal?listId=1HQBVEM1RYZ40",
+        "https://www.govplanet.eu/?h=",
+        "https://maltronics.com/",
+        "http://utahgunexchange.com/"
+    ],
+
+    "pastebins": [
+        "https://cl1p.net/",
+        "https://controlc.com/",
+        "https://dpaste.com/",
+        "https://dumpz.org/",
+        "https://www.toptal.com/developers/hastebin/",
+        "https://0bin.net/",
+        "https://rentry.co/",
+        "https://gist.github.com/"
+    ],
+
+    "news&leaks": [
+        "https://cryptome.org/",
+        "https://wikileaks.org/",
+        "https://www.databreaches.net/",
+        "https://thehackernews.com/",
+        "https://news.ycombinator.com/",
+        "https://weleakinfo.to/",
+        "https://leakcheck.net/",
+        "https://leaked.site/",
+        "https://intelx.io/",
+        "https://leakpeek.com/",
+        "https://rslookup.com/index",
+        "https://snusbase.com/",
+        "https://leak-lookup.com/account/login",
+        "https://nuclearleaks.com/",
+        "https://haveibeensold.app/",
+        "https://breachchecker.com/",
+        "https://www.dehashed.com/",
+        "https://scatteredsecrets.com/",
+        "https://hackaday.com/",
+        "https://hackernoon.com/",
+        "https://www.corelan.be/"
+    ],
+
+    "tools&other": [
+        "https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en",
+        "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/",
+        "https://www.globalsecurity.org/",
+        "https://vault.fbi.gov/",
+        "https://www.osac.gov/",
+        "https://osintframework.com/",
+        "https://osint.sh/",
+        "http://www.antennasearch.com/",
+        "https://www.start.umd.edu/gtd/",
+        "https://www.boxentriq.com/code-breaking",
+        "https://nvd.nist.gov/vuln/search",
+        "https://github.com/fastfire/deepdarkCTI",
+        "https://github.com/DedSecInside/TorBot",
+        "https://www.hunch.ly/darkweb-osint/",
+        "https://start.me/p/ZME8nR/osint?locale=en",
+        "https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo",
+        "https://github.com/jivoi/awesome-osint",
+        "https://privacy.com/virtual-card",
+        "https://thispersondoesnotexist.com/",
+        "https://www.fakenamegenerator.com/gen-female-gr-gr.php",
+        "https://github.com/sacridini/Awesome-Geospatial",
+        "https://tool.namedog.com/domain-typo-generator/",
+        "https://imgbb.com/",
+        "https://manytools.org/hacker-tools/ascii-banner/",
+        "https://builtwith.com/](https://builtwith.com/",
+        "https://getgreenshot.org/downloads/"
+    ],
+
+    "schemes&trees": [
+        "pic",
+        "pic",
+        "pic",
+        "pic",
+        "pic",
+        "pic",
+        "pic"
+    ],
+
+    "google-dorks": [
+        "empty",
+        "empty"
+    ],
+
+    "webcams": [
+        "https://www.earthcam.com/",
+        "http://www.opentopia.com/",
+        "https://livestream.com/watch",
+        "https://www.skylinewebcams.com/en/webcam.html",
+        "https://www.webcamtaxi.com/en/",
+        "https://cam.airlive.net/"
+    ],
+
+    "vpn&proxy": [
+        "https://www.ipqualityscore.com/",
+        "https://www.spokeo.com/",
+        "https://www.spydialer.com/default.aspx",
+        "https://thatsthem.com/",
+        "https://domaineye.com/",
+        "https://phonebook.cz/",
+        "https://hunter.io/",
+        "https://www.voilanorbert.com/"
+    ],
+
+    "username_search": [
+        "https://checkusernames.com/",
+        "https://namecheckup.com/",
+        "https://whatsmyname.app/",
+        "https://intelx.io",
+        "https://leakpeek.com",
+        "https://www.spokeo.com/"
+    ],
+
+    "translators": [
+        "https://www.deepl.com/translator",
+        "https://www.noslang.com/",
+        "https://www.urbandictionary.com/",
+        "https://www.sodapdf.com/ocr-pdf/",
+        "https://www.i2ocr.com/",
+        "https://www.newocr.com/",
+        "https://www.onlineocr.net/",
+        "https://github.com/argosopentech/argos-translate"
+    ],
+
+    "telephone": [
+        "https://www.whitepages.com/",
+        "https://sync.me/",
+        "https://nuwber.com/",
+        "https://www.truecaller.com/",
+        "https://www.ipqualityscore.com/",
+        "https://www.spokeo.com/",
+        "https://www.canada411.ca/",
+        "https://www.reversephonecheck.com/",
+        "https://freecarrierlookup.com/",
+        "https://www.phonevalidator.com/index.aspx",
+        "https://thatsthem.com/",
+        "https://neighbor.report/",
+        "https://www.zabasearch.com/",
+        "https://www.nationalcellulardirectory.com/",
+        "https://freecarrierlookup.com/",
+        "https://www.searchbug.com/",
+        "https://www.payphone-directory.org/",
+        "https://bmobile.in/",
+        "https://www.e-freesms.com/sms.php"
+    ],
+
+    "speciality_search": [
+        "https://www.2lingual.com/",
+        "https://archive.org/",
+        "https://millionshort.com/",
+        "https://intelx.io/tools",
+        "https://aleph.occrp.org/",
+        "https://www.shodan.io/",
+        "https://www3.wipo.int/branddb/en/",
+        "https://grayhatwarfare.com/",
+        "https://crt.sh/"
+    ],
+
+    "social_net": [
+        "https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1",
+        "https://onemilliontweetmap.com/",
+        "https://www.tweeplers.com/map/",
+        "https://search.buzz.im/",
+        "https://www.hashatit.com/",
+        "http://news-explorer.mybluemix.net/?query=IRAQ&type=unconstrained",
+        "https://officially.com/",
+        "https://mixi.jp/",
+        "https://ok.ru/",
+        "https://www.taringa.net/",
+        "https://audiense.com/",
+        "https://github.com/8C/SkypeSearch"
+    ]
+}

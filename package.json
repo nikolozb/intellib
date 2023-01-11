@@ -1,0 +1,21 @@
+{
+	"name": "intellib",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.20.1",
+		"env": "^0.0.2",
+		"express": "^4.18.2",
+		"express-handlebars": "^6.0.6"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}

@@ -1,0 +1,153 @@
+:root {
+    --HEADER-BGCOLOR: linear-gradient(360deg, rgb(33, 40, 57), rgb(56, 59, 64));
+    --BUTTON-BGCOLOR: rgb(35, 40, 113);
+    --BUTTON-HOVER-BGCOLOR: rgba(23, 29, 116, 0.804);
+    --BUTTON-ODD-BGCOLOR: rgb(40, 46, 121);
+    --BUTTON-ODD-HOVER-BGCOLOR: rgb(43, 47, 108);
+}
+
+html {
+    font-family: monospace;
+    scroll-behavior: smooth;
+    background-color: rgb(33, 40, 57);
+}
+
+header{
+    margin-bottom: 2rem;
+    background: var(--HEADER-BGCOLOR);
+}
+
+button {
+    background-color: var(--BUTTON-BGCOLOR);
+    font-size: 2rem;
+    padding: 1rem 1rem;
+    display: inline-block;
+}
+
+button:hover {
+    background-color: var(--BUTTON-HOVER-BGCOLOR);
+    font-weight: bold;
+}
+
+button#odd:hover {
+    background-color: var(--BUTTON-ODD-HOVER-BGCOLOR);
+}
+
+a {color: white;}
+
+.title {
+    font-size: 10rem;
+    color: black;
+    font-family:'Times New Roman';
+}
+
+.list {
+    margin-top: 2rem;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    border-radius: 2rem;
+}
+
+
+
+.legend {
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+
+.top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 36rem;
+}
+
+.main_content {
+    margin-left: 50.5rem;
+    color: white;
+}
+
+.discord_links {
+    margin-top: 2rem;
+    gap: 1rem;
+    margin-left: 50.5rem;
+    display: flex;
+}
+
+.osint_HQ_cover {
+    background-color: rgb(36, 0, 0);
+    width: 23rem;
+    height: 12.5rem;
+    border-radius: 2rem;
+}
+
+.osint_HQ_text {
+    display: flex;
+    justify-content: center;
+    padding-top: 2.5rem;
+    font-size: 1.5rem;
+    color: red;
+}
+
+.block_N1, .block_N2 {
+    border-radius: 2rem;
+}
+
+.themes {
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 2rem;
+    display: flex;
+    gap: 0.5rem;
+    padding: 1rem 2rem;
+}
+
+#odd {
+    background-color: var(--BUTTON-ODD-BGCOLOR);
+}
+
+#dark_theme {
+    cursor: pointer;
+}
+
+#light_theme {
+    cursor: pointer;
+    color: white;
+}
+
+/* ---SLIDES--- */
+
+ol {
+    color: white;
+    font-size: 1.3rem;
+    line-height: 2.1rem;
+}
+
+.data_box {
+    margin-left: 23rem;
+    margin-top: 5rem;
+}
+
+.red {
+    color: #dd2e44;
+}
+
+.green {
+    color: #78b159;
+}
+
+.home_button {
+    margin-left: 1rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#heading {
+    background-color: white;
+    color: black;
+}
